@@ -20,4 +20,4 @@ Este projeto é um aplicativo mobile desenvolvido em **React Native**, com backe
 - **Axios**: Biblioteca para consumo da API no aplicativo.  
 - **Arquitetura Offline First**: Garante que o aplicativo funcione mesmo sem conexão com a internet.  
 
-
+https://github.com/AlexandreBragaFerreira/Creche-Gerencial-App-React-Native/blob/main/Video%20Testando%20o%20APP.mp4
