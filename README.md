@@ -22,7 +22,6 @@ Este projeto é um aplicativo mobile desenvolvido em **React Native**, com backe
 
 ## Demonstração do Aplicativo
 
-<video src="https://github.com/AlexandreBragaFerreira/Creche-Gerencial-App-React-Native/blob/main/Video%20Testando%20o%20APP.mp4?raw=true" controls width="600">
-Seu navegador não suporta a reprodução de vídeos.
-</video>
+[Clique aqui para assistir ao vídeo de demonstração](https://github.com/AlexandreBragaFerreira/Creche-Gerencial-App-React-Native/blob/main/Video%20Testando%20o%20APP.mp4?raw=true)
+
 
